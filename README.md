@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**weboy171-lang/weboy171-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hoa Thai.
 
-Here are some ideas to get you started:
+🔹 Exploring AI, robotics and decentralized systems
+🔹 Interested in Web3, automation and open-source tools
+🔹 Learning by contributing, experimenting and building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests
+AI & Robotics
+Open Source
+Web3 Systems
+Data & Automation
+Currently Exploring
+Simulation-driven robotics
+AI agents
+Decentralized infrastructure
