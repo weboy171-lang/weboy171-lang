@@ -2,16 +2,17 @@ Hi there 👋
 
 I'm Hoa Thai.
 
-🔹 Exploring AI, robotics and decentralized systems
-🔹 Interested in Web3, automation and open-source tools
-🔹 Learning by contributing, experimenting and building
-
 Interests
-AI & Robotics
-Open Source
-Web3 Systems
-Data & Automation
+AI
+Robotics
+Web3
+Automation
+Decentralized systems
 Currently Exploring
 Simulation-driven robotics
+Teleoperation systems
 AI agents
+Open-source tools
 Decentralized infrastructure
+
+Learning by experimenting, contributing and documenting progress.
